@@ -40,4 +40,5 @@ A place for process workflow and documentation.
 * Lock down main branch so we need to do pull requests  
 * Add an image of the process  
 * Add some references/links to what I've used  
+* Add links, references and contents to each main readme
 
