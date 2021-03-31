@@ -16,12 +16,13 @@ review the code/approach.
 Outline Agenda might be:
 * Reminder: Project scope and product need
 * Reminder: Selected approach after research phase
-* Metric + soft & hard constraints for model selection
-* Data used, pre-processing and feature engineering
-* Models examined, training regime, hyper-parameter optimization.
-* Selected model, alternatives & pros/cons of each.
-* Next steps: Automation, productisation, performance optimization, monitoring, etc.
-* Check the checklist. 
+* Reminder: Metric + soft & hard KPIs
+* Data used, pre-processing and feature/data engineering
+* Solutions examined
+    * For example, if a model then training regime, hyper-parameter optimisation.
+* Selected output solution, any alternatives & pros/cons of each.
+* Next steps: Automation, productisation, performance optimisation, monitoring, etc.
+* Check the [Questions to Ask](questions_to_ask_analysis.md). 
 
 ## External Review 
 This phase doesn't have to happen whenever an internal review takes place. 

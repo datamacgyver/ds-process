@@ -10,7 +10,7 @@ to be agile and keep the client posted of progress!
 An iteration should take 2-3 weeks, ending with a checkin.  
 
 ## Stages
-1. [Define Any Tooling Needs](0_define_model_and_tooling.md) - Do we need to request any tooling?
+1. [Define Any Tooling Needs](0_define_output_and_tooling.md) - Do we need to request any tooling?
 2. [Establish KPIs](1_establish_KPI_checks.md) - How will we measure success? Set it up!
 3. [Build](2_build.md) - Make what you need, testing against KPIs. 
 4. [Review](3_review.md) - Did it work? Why? You may need to refer to [Questions to Ask](questions_to_ask_analysis.md)
