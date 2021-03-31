@@ -47,3 +47,4 @@ root readme (like this) giving you further details on the whats and the whys.
 * Add some references/links to what I've used  
 * Where should all this live? 
 * Generalise the points - we don't just build models!
+* Need to add we need to establish baselines!
