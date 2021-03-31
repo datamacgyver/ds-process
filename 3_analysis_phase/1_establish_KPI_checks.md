@@ -9,3 +9,9 @@ your experiments.
 If they are softer then how will you evaluate them? What code/procedures do you 
 need to produce an output that can be evaluated? How often will you do that? With
 whom? 
+
+## Baseline
+This is a vitally important first step. What is our naive performance? This may be:
+* If we just gave everyone the same class/average value
+* If we just matched on equality
+* If we didn't attempt to tidy the data

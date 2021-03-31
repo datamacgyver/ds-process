@@ -28,7 +28,7 @@ Soft metrics may be evaluated through stakeholder review, which is fine.
 * What high-level approaches could we use (e.g. unsupervised clustering vs boosted-tree-based 
 classification)? To do this you need to have a clear idea of the deliverables!  
 * What (if anything) already exists? Can it be re-used or modified?    
-* Don't be afraid to seek input from non-DS resources (such as your stakeholders). They may 
+* Don't be afraid to seek input from non-DS resources (such as your clients/stakeholders). They may 
 have ideas or assumptions that are of use.  
 
 ## Scope

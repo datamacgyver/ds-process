@@ -6,7 +6,7 @@ be checked against KPIs and requirements to assess if it's good enough.*
 The above being said, there is no need to wait until we are finished to review 
 either internally or externally. There should be obvious check-gates during the 
 process: I've got an MVP, I've tried a new feature set, I'm trying a different
-model type, etc. 
+model type, etc. For these, simply use parts of the External Review stage, below.
 
 ## Code Review
 Before proceeding to external review or catchup session then another DS should 

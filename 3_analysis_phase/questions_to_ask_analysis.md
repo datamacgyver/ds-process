@@ -163,7 +163,7 @@ make sure you are using the correct weight file)
 
 # Trivial Questions that Must Be Asked
 1. Is there any important library that you didn’t install and experiment just 
-because of technical issues/laziness?
+because of technical issues?
 
 2. Is there any feature that someone else in the organization is creating 
 especially for you? If so, did you check if you can do without it?

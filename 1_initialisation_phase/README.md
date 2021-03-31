@@ -8,6 +8,9 @@ At a guess, this phase should last between one and two weeks, depending on the p
 Sometimes you will find a client that just wants to play, in which case this can be 
 mainly internal exercise, but it should remain an exercise!
 
+## How Long? 
+Barring re-writes this should not take more than 1-2 weeks. 
+
 ## Stages
 1. [Kick-off Meeting](1_kick_off_meeting.md) - Initial scoping with the client/stakeholder.
 2. [Brief Digestion](2_brief_digestion.md) - Lead analyst creates requirements/scope.

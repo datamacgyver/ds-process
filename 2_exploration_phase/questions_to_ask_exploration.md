@@ -33,15 +33,15 @@ exploration.
 ### Assumptions
 * Is the data quality/source expected to remain static over time? What is the expected variability? What about for new clients? 
 * What assumptions does each approach make on the data / data generation process / the phenomenon under study?
-* 	Is it reasonable to make these assumptions about your problem? To what degree?
-* 	Can you associate violation with decreased efficacy? 
+ 	* Is it reasonable to make these assumptions about your problem? To what degree?
+ 	* Can you associate violation with decreased efficacy? 
 * Can these assumptions be validated independently?
 * Any edge/corner cases which violate these assumptions?
 * Here are some examples of some very strong and commonly implicit assumptions approaches make:
-* 	Each feature follows a Gaussian distribution.
-* 	Time series are realizations of a stationary process.
-* 	Features are strictly independent (e.g. Naive Bayes assumes this).
-* 	Separability of the measurements of different components in the system being measured.
+ 	* Each feature follows a Gaussian distribution.
+ 	* Time series are realizations of a stationary process.
+ 	* Features are strictly independent (e.g. Naive Bayes assumes this).
+ 	* Separability of the measurements of different components in the system being measured.
 * Do we have enough data to train our chosen model? Will that always be the case? 
 	
 ### Past Experience
@@ -61,6 +61,9 @@ exploration.
 ### For unsupervised learning methods:
 * What measure does the method optimize?
 * Are there edge cases that satisfy the metric but not the KPI?
+
+### For non-modelling tasks: 
+* How do our KPIs align to the problem statement? How will they be measured?
 	
 ## Implementation
 * Are there implementations of the approach in a language currently used in your production environment?
@@ -74,13 +77,13 @@ exploration.
 	
 ## Noise/Bias/Missing Data Resilience
 * Does the approach handle noise in the data? How?
-* 	Does it model it specifically?
-* 	If so, consider: How applicable is the noise model to the noise generating process in your problem?
-* 	For anomalies/prediction/causality/dynamics: Does the approach model exogenous variables in the system?
+ 	* Does it model it specifically?
+ 	* If so, consider: How applicable is the noise model to the noise generating process in your problem?
+ 	* For anomalies/prediction/causality/dynamics: Does the approach model exogenous variables in the system?
 * For supervised and semi-supervised methods:
-* 	How sensitive is each approach to bias in labelling?
-* 	What are the implications of a biased model in your case?
-* 	Are generic bias-correction techniques applicable to the approach?
+ 	* How sensitive is each approach to bias in labelling?
+ 	* What are the implications of a biased model in your case?
+ 	* Are generic bias-correction techniques applicable to the approach?
 * For all methods:
-* 	How does each approach handle missing data, if at all?
+ 	* How does each approach handle missing data, if at all?
 *   How badly is performance expected to degrade as missing data increases, in each case?

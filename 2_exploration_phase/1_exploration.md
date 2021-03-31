@@ -38,3 +38,7 @@ think about!
 * Will deployment be easy or hard? Will there be a complex bespoke model? Will we need engineering support? 
 * Also consider things like retraining and monitoring.
 * Will the deployed solution be costly to maintain (ie an always on API against a once a week batch?)
+
+## Baselines
+Based on our choices, how will we establish the baseline from which we will build 
+our solution (if appropriate)? 

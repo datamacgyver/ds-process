@@ -27,6 +27,9 @@ know the minutiae; but if you just need to build an SK Learn model and deploy it
 theory) you really just need to understand the strengths, weaknesses and
 assumptions in play. 
 
+## How Long? 
+An iteration should take 2-3 weeks, ending with a checkin.  
+
 ## Stages
 1. [Exploration](1_exploration.md) - Explore both the data and solution space.
 2. [Review](2_review.md) - Review the outputs of the above. See also [Questions to Ask](questions_to_ask_exploration.md)
@@ -37,3 +40,4 @@ assumptions in play.
 * Summary of each point in stage 2 - slides/notebook/document  
     * Can be used for internal review  
     * Simplified version for external review  
+* Code committed against tickets in ODS

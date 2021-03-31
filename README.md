@@ -37,9 +37,7 @@ root readme (like this) giving you further details on the whats and the whys.
 
 ## TODOs
 * Images, perhaps some memes
-* Timings on all sections
 * Deployment phase
-* review sessions
 * Recheck each section against my notes to make sure I have the flow right. 
 * Q: Confluence or shared drive for project docs? 
 * Lock down main branch so we need to do pull requests  
@@ -47,4 +45,3 @@ root readme (like this) giving you further details on the whats and the whys.
 * Add some references/links to what I've used  
 * Where should all this live? 
 * Generalise the points - we don't just build models!
-* Need to add we need to establish baselines!
