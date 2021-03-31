@@ -3,7 +3,7 @@ As with the initialisation work, there is an internal check then an external one
 but this should not be the team's only contact with the project. They have knowledge, 
 use it. 
 
-You may find it handy to refer to the [Questions to Ask](questions_to_ask.md) 
+You may find it handy to refer to the [Questions to Ask](questions_to_ask_exploration.md) 
 document while planning this, just remember you don't need all of it!
 
 ## Exploration review 

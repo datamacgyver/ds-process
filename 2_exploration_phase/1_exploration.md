@@ -1,6 +1,6 @@
 # Exploration
 This is in two parts: Solution and Data. In both cases please refer to the
-[Questions to Ask](questions_to_ask.md) document for ideas of what kind of 
+[Questions to Ask](questions_to_ask_exploration.md) document for ideas of what kind of 
 things we may want to check for.
 
 ## Data Exploration
