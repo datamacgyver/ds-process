@@ -17,7 +17,7 @@ Soft metrics may be evaluated through stakeholder review, which is fine.
 > As a salesperson, want to be able to detect 70% of my customers at risk of churn, 
 > with a false positive rate below 20%. 
 
-**Soft**
+**Soft:**
 > As a salesperson, I want to be able to quickly identify which of my customers have decreasing 
 > spend in crop Protection so I can increase my total sales.
 
