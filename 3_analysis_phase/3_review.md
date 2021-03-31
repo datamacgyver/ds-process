@@ -8,6 +8,10 @@ either internally or externally. There should be obvious check-gates during the
 process: I've got an MVP, I've tried a new feature set, I'm trying a different
 model type, etc. 
 
+## Code Review
+Before proceeding to external review or catchup session then another DS should 
+review the code/approach. 
+
 ## Internal Review
 Outline Agenda might be:
 * Reminder: Project scope and product need
@@ -20,6 +24,8 @@ Outline Agenda might be:
 * Check the checklist. 
 
 ## External Review 
+This phase doesn't have to happen whenever an internal review takes place. 
+
 * Present the current model/solution to the stakeholder and evaluate it against any 
 soft metrics. Effectively, make sure that it actually addresses the problem posed 
 in the manner in which it is supposed to. 

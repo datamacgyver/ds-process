@@ -42,8 +42,7 @@ re-frame the problem?
 * What data do we need? From where? Do they need obfuscating? Have we requested access? 
 
 ## Bureaucracy
-Do we have a vague estimate of effort (Days/weeks/months) to MVP? To completion? 
-
-What risks, assumptions and dependencies are there? Can we monitor or remediate? 
+* Do we have a vague estimate of effort (Days/weeks/months) to MVP? To completion? 
+* What risks, assumptions and dependencies are there? Can we monitor or remediate? 
 
 *Based on the above, is the project possible? If not, how can we reframe it to be a soluble problem?*  

@@ -26,3 +26,13 @@ know the minutae; but if you need to build an SK Learn model and deploy it then 
 theory) you really just need to understand the strengths, weaknesses and
 assumptions in play. 
 
+## Stages
+1. [Exploration](1_exploration.md) - Explore both the data and solution space.
+2. [Review](2_review.md) - Review the outputs of the above. See also [Questions to Ask](questions_to_ask_exploration.md)
+*Iterate as appropriate*
+
+## Expected Artefacts
+* Meeting agendas, notes and actions - document(s) on XXXX  
+* Summary of each point in stage 2 - slides/notebook/document on XXXX
+    * Can be used for Internal review
+    * Simplified version for External review

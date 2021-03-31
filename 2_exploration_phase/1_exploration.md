@@ -27,7 +27,6 @@ It's fine to have a preferred choice that seems to be the path of least resistan
 Why are they not the primary choice? We may need to either adjust our approach or 
 pivot if there are problems. 
 
-
 ### Deploy-ability Check
 As part of the above it may be wise to ask the question "How hard will this be to
 deploy/productionise?" This may not be a q we can answer with the current state of
@@ -38,4 +37,3 @@ about!
 * Will deployment be easy or hard? Will there be a complex bespoke model? Will we need engineering support? 
 * Also consider things like retraining and monitoring.
 * Will the deployed solution be costly to maintain (ie an always on API against a once a week batch?)
-

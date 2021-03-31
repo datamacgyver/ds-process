@@ -30,14 +30,10 @@ root readme (like this) giving you further details on the whats and the whys.
 
 
 ## TODOs
+* Q: Confluence or shared drive for project docs? 
 * Lock down main branch so we need to do pull requests  
 * Add an image of the process  
 * Add some references/links to what I've used  
-* Add links, references and contents to each main readme
-* Code reviews
-* What artefacts in each phase? Incl meeting agendas/actions/contents.
 * Where should all this live? 
 * Generalise the points - we don't just build models!
-* Data in shared drive, code in Git
-* 
 
