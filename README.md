@@ -5,14 +5,21 @@ meant to be a living set of documents we can update as we go along (hence the
 use of Git!). **For editing, please use Pycharm or similar.** It helps you 
 maintain links and markdown form.
 
-## No Best Practice!
-Note that these guides only form as a guide to *good* practice. If you feel something
+These guides only form as a guide to *good* practice. If you feel something
 doesn't fit your project then don't use it, but be sure you are consciously making 
 that decision for good reasons. Also chat with others, it may be we need to change 
 something!
 
+## A Note on Repeatability
+Try to imagine you in a year's time. If I asked you to justify your KPIs, 
+repeat your analyses and get the exact same results you should be able to do 
+this trivially (like, find the relevant work items, locate the code, open it 
+and hit run). As such, you should be able to find the code, original data and 
+validation metrics easily. To do this you need to make use of the shared folder, 
+Jira, Confluence and Git in equal measure.  
+
 ## The Process
-ADD AN IMAGE
+ADD AN IMAGE  
 This is the outline process defined in 2020 (0 BC, Before Covid), again it is a 
 suggestion and it does not precisely mirror the documents and stages you will 
 find in this repo. It does help share the gist of what we are trying to get at 
@@ -28,8 +35,12 @@ root readme (like this) giving you further details on the whats and the whys.
 * [**Deliverables:**](4_deliverables_phase) Handing off artefacts, documentation and maintenance procedures. 
 * [**Wrapup:**](5_wrapup) Summarising and learning from the project (success or failure). A retro, basically. 
 
-
 ## TODOs
+* Images, perhaps some memes
+* Timings on all sections
+* Deployment phase
+* review sessions
+* Recheck each section against my notes to make sure I have the flow right. 
 * Q: Confluence or shared drive for project docs? 
 * Lock down main branch so we need to do pull requests  
 * Add an image of the process  

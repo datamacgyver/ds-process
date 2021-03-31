@@ -6,8 +6,6 @@ data are available and *start the process of getting access*. This can
 take ages so get it going, the same is true for any documentation, repos, 
 etc that may be needed! 
 
-TODO: ADD THE QUESTIONS LIST!
-
 ## Problem Statements or KPIs?
 This is probably your primary objective in terms of defining the project. 
 Something like: 
@@ -28,7 +26,7 @@ with the client.
 
 #### Who are we meeting? Department, role, etc?
 Is there anyone else who may need to be involved? Either from a direct 
-tech/design/requirements standpoint or stratergy/sales? It may be that 
+tech/design/requirements standpoint or strategy/sales? It may be that 
 some only want later (or earlier) involvement.
  
 #### What are the objectives we are trying to achieve? 
@@ -40,7 +38,7 @@ know this in great detail.
 
 #### If known, what are the requirements for a deliverable? 
 Basically, what/where would this live? Think of things like artefacts, deployment, 
-testing, speed, accuracy (or other), documentation, batch/RT, target architecture.
+testing, speed, accuracy (or similar), documentation, batch/RT, target architecture.
 
 #### Who will be responsible for signing off/implementing the deliverable? 
 Have we spoken to them? Can we? How will they be involved? 

@@ -10,12 +10,12 @@ isn't doing all the things, it's working out which things!
 
 This is also an opportunity to collect ideas from the floor as to possible approaches, 
 additions, side projects, past work and future product ideas *but this can happen before 
-the final review if you need!*
+the final review as well*
 
 # External Review
 As above but with a much greater focus on scope and KPIs. Remember: Most people don't care 
 how you did it. 
 
 The primary goal is to make sure we are solving the right problem in the right way in a form
-that can be delivered! As such, the client needs to be clearly aware of how the KPIs fulfill 
+that can be delivered. As such, the client needs to be clearly aware of how the KPIs fulfill 
 that need. 

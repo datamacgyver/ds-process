@@ -1,12 +1,15 @@
 # Brief Digestion
 
-This is where you put the notes from teh client into Data Science speak! You 
-may also be required to do some high level data exploration to confirm the data
-are what they are supposed to be, that predictors can be made and to identify any
+This is where you put the notes from the client into Data Science speak! You 
+may also be required to do some high-level data exploration to confirm the data
+are what they are supposed to be, that predictors can be made, and to identify any
 data risks or assumptions. 
 
-The notes below will help you in your thinking but I WILL ALSO ADD A LINK TO THE 
-ANALYSIS CHECKLIST THAT MAY INDICATE SOME THINGS TO CHECK. 
+The notes below will help you in your thinking but you can also refer to some of the 
+points in the "Questions to Ask" sections of the [Exploration](2_exploration_phase\questions_to_ask_exploration.md)
+and [Analysis](3_analysis_phase\questions_to_ask_analysis.md) sections for things that
+may be important in the future. Again though, this is only initialisation so keep it 
+containted to what we need to establish feasibility, scope and KPIs.
 
 ## KPIs
 Define hard/soft KPIs as appropriate (it depends on the project and the output; 
@@ -23,11 +26,10 @@ Soft metrics may be evaluated through stakeholder review, which is fine.
 
 ## Potential Approaches
 * What high-level approaches could we use (e.g. unsupervised clustering vs boosted-tree-based 
-classification vs probabilistic inference)?. To do this you need to have a clear idea of the 
-deliverables! 
-* What (if anything) already exists? Can it be re-used or modified?  
+classification)? To do this you need to have a clear idea of the deliverables!  
+* What (if anything) already exists? Can it be re-used or modified?    
 * Don't be afraid to seek input from non-DS resources (such as your stakeholders). They may 
-have ideas or assumptions that are of use. 
+have ideas or assumptions that are of use.  
 
 ## Scope
 What does the MVP look like? What does the final solution look like? How do we get from 
@@ -42,7 +44,7 @@ re-frame the problem?
 * What data do we need? From where? Do they need obfuscating? Have we requested access? 
 
 ## Bureaucracy
-* Do we have a vague estimate of effort (Days/weeks/months) to MVP? To completion? 
+* Do we have a vague estimate of effort (days/weeks/months) to MVP? To completion? 
 * What risks, assumptions and dependencies are there? Can we monitor or remediate? 
 
 *Based on the above, is the project possible? If not, how can we reframe it to be a soluble problem?*  
