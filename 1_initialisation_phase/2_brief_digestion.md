@@ -13,11 +13,11 @@ Define hard/soft KPIs as appropriate (it depends on the project and the output;
 human assisting tools are often softer). How will these be evaluated (i.e. SME or metric?).
 Soft metrics may be evaluated through stakeholder review, which is fine. 
 
-**HARD:** 
+**Hard:** 
 > As a salesperson, want to be able to detect 70% of my customers at risk of churn, 
 > with a false positive rate below 20%. 
 
-**SOFT**
+**Soft**
 > As a salesperson, I want to be able to quickly identify which of my customers have decreasing 
 > spend in crop Protection so I can increase my total sales.
 
