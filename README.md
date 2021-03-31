@@ -23,10 +23,10 @@ At this root level you will find one folder for each phase. Each folder will con
 root readme (like this) giving you further details on the whats and the whys. 
 
 * [**Initialisation:**](1_initialisation_phase) Requirements gathering and data access.
-* [**Exploration:**](2_exploration_phase/README.md) Checking the data and the literature.
-* [**Analysis:**](3_analysis_phase/README.md)  Modelling, building, etc. 
-* [**Deliverables:**](4_deliverables_phase/README.md) Handing off artefacts, documentation and maintenance procedures. 
-* [**Wrapup:**](5_wrapup/README.md) Summarising and learning from the project (success or failure). A retro, basically. 
+* [**Exploration:**](2_exploration_phase) Checking the data and the literature.
+* [**Analysis:**](3_analysis_phase)  Modelling, building, etc. 
+* [**Deliverables:**](4_deliverables_phase) Handing off artefacts, documentation and maintenance procedures. 
+* [**Wrapup:**](5_wrapup) Summarising and learning from the project (success or failure). A retro, basically. 
 
 
 ## TODOs
