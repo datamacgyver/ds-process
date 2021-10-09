@@ -36,12 +36,10 @@ root readme (like this) giving you further details on the whats and the whys.
 * [**Wrapup:**](5_wrapup) Summarising and learning from the project (success or failure). A retro, basically. 
 
 ## TODOs
-* Images, perhaps some memes
+* Images, perhaps some memes...
 * Deployment phase
 * Recheck each section against my notes to make sure I have the flow right. 
-* Q: Confluence or shared drive for project docs? 
 * Lock down main branch so we need to do pull requests  
 * Add an image of the process  
 * Add some references/links to what I've used  
-* Where should all this live? 
 * Generalise the points - we don't just build models!
